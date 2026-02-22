@@ -1,9 +1,5 @@
 # Olá, eu sou o Enzo Alberti!
 
-### Desenvolvedor de Software em Formação | FATEC Itapira | Técnico pelo SENAC
-
----
-
 ##  Sobre Mim
 -  Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC Itapira.
 -  Formado como **Técnico em Informática** pelo SENAC.
