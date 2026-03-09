@@ -2,7 +2,7 @@
 
 ##  Sobre Mim
 -  Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC Itapira.
--  Formado como **Técnico em Informática** pelo SENAC.
+-  **Técnico em Informática** pelo SENAC.
 -  Experiência com scripts em Lua (Roblox), mods (Project Zomboid, Minecraft, FTK...) e aplicações C#.
 
 ---
