@@ -1,9 +1,9 @@
 # Olá, eu sou o Enzo Alberti!
 
 ##  Sobre Mim
--  Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC Itapira.
--  **Técnico em Informática** pelo SENAC.
--  Experiência com scripts em Lua (Roblox), mods (Project Zomboid, Minecraft, FTK...) e aplicações C#.
+-  Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)**
+-  **Técnico em Informática**
+-  Experiência com scripts em Lua (Roblox), mods (Project Zomboid, Minecraft, FTK...) e aplicações C#
 
 ---
 
