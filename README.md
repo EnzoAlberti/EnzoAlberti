@@ -3,7 +3,6 @@
 ##  Sobre Mim
 -  Atualmente cursando **Desenvolvimento de Software Multiplataforma (DSM)**
 -  **Técnico em Informática**
--  Experiência com scripts em Lua (Roblox), mods (Project Zomboid, Minecraft, FTK...) e aplicações C#
 
 ---
 
@@ -14,10 +13,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-5C2D91?style=for-the-badge&logo=xaml&logoColor=white)
 
 ### Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-52B0E7?style=for-the-badge&logo=avalonia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
